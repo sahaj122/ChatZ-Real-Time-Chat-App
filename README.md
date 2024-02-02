@@ -1,5 +1,5 @@
 # ChatZ - Chat Application 
-ChatZ is chat application build with the power of MERN Stack. You can find the tutorial [here](https://www.youtube.com/watch?v=otaQKODEUFs)
+ChatZ is chat application build with MERN Stack.
 
 
 
